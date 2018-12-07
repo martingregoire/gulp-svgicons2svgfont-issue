@@ -1,0 +1,17 @@
+{
+  "name": "gulp-svgicons2svgfont-issue",
+  "version": "1.0.0",
+  "description": "Demo of an issue with unsorted icon file names, see README.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp-svgicons2svgfont": "^5.0.1"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
